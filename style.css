@@ -50,6 +50,11 @@ main{
 a{
   color: red;
 }
+
+a:visited {
+  color: lime;
+}
+
 .first{
   font-family: 'Josefin Sans', sans-serif; 
   color: #222;
